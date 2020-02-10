@@ -1,0 +1,4 @@
+*.zip
+
+go.sum
+*/go.sum
